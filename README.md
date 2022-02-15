@@ -1,5 +1,7 @@
-## Opa, obrigado pela visita. Meu nome é Juliano e eu amo tecnologia!
-### OPEN TO WORK!
+
+## OPEN TO WORK!
+> Opa, obrigado pela visita. Meu nome é Juliano e eu amo tecnologia!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
