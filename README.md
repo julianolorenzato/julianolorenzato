@@ -1,6 +1,5 @@
-# Hey, thanks for visiting me!
-My name is Juliano, and I love technology.
-### I'm currently OPEN TO WORK!
+## Opa, obrigado pela visita. Meu nome é Juliano e eu amo tecnologia!
+### OPEN TO WORK!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
