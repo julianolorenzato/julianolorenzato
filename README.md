@@ -1,5 +1,4 @@
-## OPEN TO WORK!
-Opa, obrigado pela visita. Meu nome é Juliano e eu amo tecnologia!
+# Opa, obrigado pela visita. Meu nome é Juliano e eu amo tecnologia!
 <br></br>
 [![foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianolorenzato@gmail.com)
