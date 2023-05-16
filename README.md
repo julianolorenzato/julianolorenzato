@@ -1,5 +1,5 @@
 # About me
-Hey, thanks for visiting me. I'm Juliano and I love technology.
+Hey, thanks for visiting me. I'm Juliano and I love technology.<br>
 [![foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianolorenzato@gmail.com)
 <br></br>
