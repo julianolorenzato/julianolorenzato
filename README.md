@@ -6,7 +6,7 @@ Hey, thanks for visiting me. I'm Juliano and I love technology.
 [![foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianolorenzato@gmail.com)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianolorenzato&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianolorenzato&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **julianolorenzato/julianolorenzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
