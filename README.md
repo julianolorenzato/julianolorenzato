@@ -1,6 +1,6 @@
 # About me
 Hey, thanks for visiting me. I'm Juliano and I love technology.
-- ⚡ Currently learning Go, Rust, Elixir, Linux, Shell Script.
+- ⚡ Currently learning Clojure, Go, Rust, Elixir, Linux, Shell Script.
 - 🧠 Interested in Parallel and Distributed Computing, Computer Graphics, Blockchain and Developer Experience.
 <br><br>
 [![foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
