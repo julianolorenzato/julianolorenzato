@@ -13,8 +13,9 @@ Hey, thanks for visiting me. I'm **Juliano Lorenzato**, a software engineer, sci
   - Developer Experience
   - Parallel and Distributed Computing
   - Blockchain and Web3
-  - Compilers
+  - Compilers and Virtual Machines
   - Operational Systems
   - Heterogeneous Computing
+  - Open-source Development
 
 </samp>
