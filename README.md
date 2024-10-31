@@ -1,15 +1,9 @@
 <samp>
 
 Hey, thanks for visiting me. I'm **Juliano Lorenzato**, a software engineer, scientific researcher, low-level lover, and programming enthusiast, currently working with Elixir ecosystem.
-
-- Main programming languages
-  - Elixir
-  - Rust
-  - C
-  - Go
-  - JS/TS
     
 - Interested in
+  - Low-level Software
   - Developer Experience
   - Parallel and Distributed Computing
   - Blockchain and Web3
@@ -19,3 +13,8 @@ Hey, thanks for visiting me. I'm **Juliano Lorenzato**, a software engineer, sci
   - Open-source Development
 
 </samp>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,zig">
+</div>
+
