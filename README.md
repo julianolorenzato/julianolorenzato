@@ -9,7 +9,7 @@ Hey, thanks for visiting me. I'm **Juliano Lorenzato**, a software engineer, sci
   - Database Internals
   - Blockchain and Web3
   - Compilers and Virtual Machines
-  - Operational Systems
+  - Operating Systems
   - Heterogeneous Computing
   - Open-source Development
 
